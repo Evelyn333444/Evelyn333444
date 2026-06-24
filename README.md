@@ -8,7 +8,7 @@ I've been learning to code for 4 months, after getting out of the Navy. I starte
 
 * 🌍  I'm based in Mobile, AL
 * ✉️  You can contact me at [brackesb12@gmail.com](mailto:brackesb12@gmail.com)
-* 🧠  I'm currently learning Node.js
+* 🧠  I'm currently learning Tailwind CSS
 * 👥  I'm looking to collaborate on node.js and react.js projects that incorporate css
 
 <p align="left">
